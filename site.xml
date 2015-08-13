@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Patl4JUpdateSite" url="https://github.com/Mestway/Patl4JUpdateSite">
+      Patl4J plugin update site.
+   </description>
+   <feature url="features/Patl4JFeature_1.0.0.201508131413.jar" id="Patl4JFeature" version="1.0.0.201508131413"/>
+</site>
